@@ -1,0 +1,5 @@
+# analytics/models.py
+class Dataset(models.Model):
+    name = models.CharField(max_length=100)
+    uploaded_at = models.DateTimeField(auto_now_add=True)
+    summary = models.JSONField()
