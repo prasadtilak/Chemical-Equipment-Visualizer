@@ -1,0 +1,3 @@
+plt.bar(types.keys(), types.values())
+plt.title("Equipment Type Distribution")
+plt.show()
