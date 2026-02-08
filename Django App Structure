@@ -1,0 +1,14 @@
+backend/
+├── equipment_visualizer/
+│   ├── settings.py
+│   ├── urls.py
+│   └── ...
+├── analytics/
+│   ├── models.py
+│   ├── serializers.py
+│   ├── views.py
+│   ├── urls.py
+│   └── utils.py
+├── db.sqlite3
+├── requirements.txt
+└── manage.py
