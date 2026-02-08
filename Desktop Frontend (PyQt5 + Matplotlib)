@@ -1,0 +1,6 @@
+desktop/
+├── main.py
+├── api_client.py
+├── ui/
+│   ├── main_window.ui
+│   └── login.ui
