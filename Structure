@@ -1,0 +1,9 @@
+web/
+├── src/
+│   ├── components/
+│   │   ├── UploadForm.js
+│   │   ├── SummaryCards.js
+│   │   ├── EquipmentTable.js
+│   │   └── Charts.js
+│   ├── services/api.js
+│   └── App.js
